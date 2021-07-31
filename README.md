@@ -1,4 +1,4 @@
-# Planet Card React App
+# React User API Fetch
 
 Mini React js project to fetch User API and display it
 
